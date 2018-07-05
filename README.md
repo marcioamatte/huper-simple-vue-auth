@@ -13,7 +13,7 @@ Instructions for use
     import Vue from 'vue'
     import HuperSimpleVueAuth from 'huper-simple-vue-auth'
 
-    Vue.usr(HuperSimpleVueAuth)
+    Vue.use(HuperSimpleVueAuth)
    
    ...
 
