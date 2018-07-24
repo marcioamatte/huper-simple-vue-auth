@@ -20,5 +20,5 @@ Instructions for use
     <router-link v-if="$isAuth(['ADMIN', 'LOGGEDING'], userPermission)" ...></router-link> // userPermission is a role from user loggedIn
 ```
 * Notes: 
-- If you using CommonJS change to require module import instead ES6 import.
+- If you use CommonJS change to require module import instead ES6 import.
 - This plugin is very simple and not need options to use it!
